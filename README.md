@@ -1,9 +1,9 @@
-### Hi there 👋; I'm just starting with coding....soon to become a Full Stack developer...
-### Wish me luck!! or show me some love and buy me a cup of coffee 
+### Hi there 👋; I've only just started coding....soon to become a Full Stack developer...
+### Wish me luck!! or better yet, show me some love and buy me a cup of coffee 🫶🏽
 
 <a href="https://www.buymeacoffee.com/rociogco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### 📫 How to reach me [email](mailto:rociog993@gmail.com) :)
+### 📫 You can reach me [here](mailto:rociog993@gmail.com) :)....About anything
 
 📈 So Far, my stats are low, but we can grow together!!! 💪🏼
 
