@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋; I'm just starting as a developer....soon to become a Full Stack developer...
+### Wish me luck!! or buy me a cup o coffee <a href="https://www.buymeacoffee.com/rociogco">link</a>
 
  📫 How to reach me: rociog993@gmail.com
 
