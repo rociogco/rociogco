@@ -1,11 +1,13 @@
 ### Hi there 👋; I'm just starting with coding....soon to become a Full Stack developer...
-### Wish me luck!! or show me some love and buy me a cup o coffee 
+### Wish me luck!! or show me some love and buy me a cup of coffee 
 
 <a href="https://www.buymeacoffee.com/rociogco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
- 📫 How to reach me: rociog993@gmail.com
+### 📫 How to reach me: rociog993@gmail.com
 
+📈 So Far, my stats are low, but we can grow together!!! 💪🏼
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rociogco&show_icons=true&theme=gotham" alt="rociogco" />
 
 <!--
 **rociogco/rociogco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
