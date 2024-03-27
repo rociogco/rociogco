@@ -3,7 +3,7 @@
 
 <a href="https://www.buymeacoffee.com/rociogco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### 📫 How to reach me: rociog993@gmail.com
+### 📫 How to reach me [email](mailto:rociog993@gmail.com) :)
 
 📈 So Far, my stats are low, but we can grow together!!! 💪🏼
 
